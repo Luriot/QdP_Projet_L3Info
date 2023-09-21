@@ -175,7 +175,7 @@ void mainMenu()
         {
             case 1 : jouer(); break;
             case 2 : exporte(); break;
-            case 9 : exit(0); break;
+            case 9 : exit(0);
         }
     }
 }
