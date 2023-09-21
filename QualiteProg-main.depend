@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1672944760 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\afficheur.cpp
+	"Afficheur.h"
+	"point.h"
+	"iomanip"
+	"iostream"
+
+1672944753 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\afficheur.h
+	"AireDeJeu.h"
+
+1672738521 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\airedejeu.h
+	<vector>
+	<string>
+	"joueur.h"
+	"point.h"
+	"fauve.h"
+
+1672929210 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\joueur.h
+	"entity.h"
+	"AireDeJeu.h"
+
+1672937198 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\entity.h
+	<vector>
+	<iostream>
+	<memory>
+	"point.h"
+
+1672738522 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\point.h
+
+1672938654 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\fauve.h
+	"entity.h"
+	"piege.h"
+
+1672938522 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\piege.h
+	"entity.h"
+
+1672940165 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\airedejeu.cpp
+	"AireDeJeu.h"
+	"point.h"
+	"joueur.h"
+	<fstream>
+
+1672938656 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\fauve.cpp
+	"fauve.h"
+	"AireDeJeu.h"
+	"joueur.h"
+	<utility>
+	<cmath>
+
+1672940175 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\joueur.cpp
+	"joueur.h"
+
+1672938492 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\piege.cpp
+	"piege.h"
+	"AireDeJeu.h"
+
+1672738521 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\point.cpp
+	"point.h"
+
+1672939150 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\main.cpp
+	"fauve.h"
+	"joueur.h"
+	"piege.h"
+	"AireDeJeu.h"
+	"Afficheur.h"
+	<iostream>
+	<vector>
+
+1672948360 source:c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\afficheur.cpp
+	"Afficheur.h"
+	"point.h"
+	"iomanip"
+	"iostream"
+
+1672948353 c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\afficheur.h
+	"AireDeJeu.h"
+
+1672742121 c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\airedejeu.h
+	<vector>
+	<string>
+	"joueur.h"
+	"point.h"
+	"fauve.h"
+
+1672932810 c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\joueur.h
+	"entity.h"
+	"AireDeJeu.h"
+
+1672940798 c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\entity.h
+	<vector>
+	<iostream>
+	<memory>
+	"point.h"
+
+1672742122 c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\point.h
+
+1672942254 c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\fauve.h
+	"entity.h"
+	"piege.h"
+
+1672942122 c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\piege.h
+	"entity.h"
+
+1672943765 source:c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\airedejeu.cpp
+	"AireDeJeu.h"
+	"point.h"
+	"joueur.h"
+	<fstream>
+
+1672942256 source:c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\fauve.cpp
+	"fauve.h"
+	"AireDeJeu.h"
+	"joueur.h"
+	<utility>
+	<cmath>
+
+1672943775 source:c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\joueur.cpp
+	"joueur.h"
+
+1672942092 source:c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\piege.cpp
+	"piege.h"
+	"AireDeJeu.h"
+
+1672742121 source:c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\point.cpp
+	"point.h"
+
+1673281892 source:c:\users\bru68\documents\l3 info\qualité de prog\projet 22-23\main.cpp
+	"fauve.h"
+	"joueur.h"
+	"piege.h"
+	"AireDeJeu.h"
+	"Afficheur.h"
+	<iostream>
+	<vector>
+

@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1672944760 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\afficheur.cpp
+	"Afficheur.h"
+	"point.h"
+	"iomanip"
+	"iostream"
+
+1672944753 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\afficheur.h
+	"AireDeJeu.h"
+
+1672738521 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\airedejeu.h
+	<vector>
+	<string>
+	"joueur.h"
+	"point.h"
+	"fauve.h"
+
+1672929210 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\joueur.h
+	"entity.h"
+	"AireDeJeu.h"
+
+1672937198 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\entity.h
+	<vector>
+	<iostream>
+	<memory>
+	"point.h"
+
+1672738522 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\point.h
+
+1672938654 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\fauve.h
+	"entity.h"
+	"piege.h"
+
+1672938522 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\piege.h
+	"entity.h"
+
+1672940165 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\airedejeu.cpp
+	"AireDeJeu.h"
+	"point.h"
+	"joueur.h"
+	<fstream>
+
+1672938656 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\fauve.cpp
+	"fauve.h"
+	"AireDeJeu.h"
+	"joueur.h"
+	<utility>
+	<cmath>
+
+1672940175 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\joueur.cpp
+	"joueur.h"
+
+1672938492 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\piege.cpp
+	"piege.h"
+	"AireDeJeu.h"
+
+1672738521 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\point.cpp
+	"point.h"
+
+1672738522 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\testjoueur.cpp
+	"doctest.h"
+	"joueur.h"
+
+1672738521 c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\doctest.h
+	<signal.h>
+	<iosfwd>
+	<cstddef>
+	<ostream>
+	<ciso646>
+	<type_traits>
+	"doctest_fwd.h"
+	<ctime>
+	<cmath>
+	<climits>
+	<math.h>
+	<new>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<limits>
+	<utility>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<vector>
+	<atomic>
+	<mutex>
+	<set>
+	<map>
+	<exception>
+	<stdexcept>
+	<csignal>
+	<cfloat>
+	<cctype>
+	<cstdint>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<AfxWin.h>
+	<windows.h>
+	<io.h>
+	<sys/time.h>
+	<unistd.h>
+
+1672738522 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\testmain.cpp
+	"doctest.h"
+
+1672944655 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\testairdejeu.cpp
+	"doctest.h"
+	"AireDeJeu.h"
+
+1672940860 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\testpiege.cpp
+	"doctest.h"
+	"piege.h"
+	"AireDeJeu.h"
+
+1672942760 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\testfauve.cpp
+	"doctest.h"
+	"fauve.h"
+	"piege.h"
+	"AireDeJeu.h"
+
+1672945193 source:c:\users\bru68\documents\l3 info\qualité de prog\qualiteprog-main\testpoint.cpp
+	"doctest.h"
+	"point.h"
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TestQdP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TestQdP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TestQdP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Afficheur.cpp" />
+		<Unit filename="Afficheur.h" />
+		<Unit filename="AireDeJeu.cpp" />
+		<Unit filename="AireDeJeu.h" />
+		<Unit filename="doctest.h" />
+		<Unit filename="entity.h" />
+		<Unit filename="fauve.cpp" />
+		<Unit filename="fauve.h" />
+		<Unit filename="joueur.cpp" />
+		<Unit filename="joueur.h" />
+		<Unit filename="piege.cpp" />
+		<Unit filename="piege.h" />
+		<Unit filename="point.cpp" />
+		<Unit filename="point.h" />
+		<Unit filename="testAirDeJeu.cpp" />
+		<Unit filename="testFauve.cpp" />
+		<Unit filename="testJoueur.cpp" />
+		<Unit filename="testMain.cpp" />
+		<Unit filename="testPiege.cpp" />
+		<Unit filename="testPoint.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
